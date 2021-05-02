@@ -55,8 +55,7 @@ Este documento contiene la información detallada del modelo de datos asociado a
 La figura muestra las clases y propiedades del vocabulario de los eventos de la agenda municipal y sus participantes.   
 
 &nbsp;
-![Diagrama conceptual]()
-Figura 1
+![Diagrama conceptual](http://vocab.ciudadesabiertas.es/def/sector-publico/agenda-municipal/resources/images/modeloConceptual.png)
 &nbsp;
 
 
